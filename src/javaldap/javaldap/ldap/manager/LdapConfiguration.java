@@ -2,8 +2,7 @@ package javaldap.ldap.manager;
 
 import java.util.ArrayList;
 
-import interoperabilite.json.manager.JsonManager;
-import interoperabilite.ldap.manager.LdapManager;
+import javajackson.json.manager.JsonManager;
 
 public class LdapConfiguration {
 
